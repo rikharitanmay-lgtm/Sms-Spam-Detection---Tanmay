@@ -8,12 +8,6 @@ A machine learning project for detecting whether an SMS message is spam or legit
 
 **Tanmay Rikhari**
 
-## Original Project
-
-This project is based on and adapted from the original work by **rohan8594**.
-
-Original repository:
-https://github.com/rohan8594/SMS-Spam-Detection
 
 This repository is maintained by Tanmay Rikhari for learning, experimentation, and further development.
 
