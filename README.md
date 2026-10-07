@@ -1,33 +1,33 @@
-# SMS Spam Detection Using Machine Learning
+# SMS Spam Detection
 
-## Instructions for Compiling
+## About
 
-b) Clone repo.
+A machine learning project for detecting whether an SMS message is spam or legitimate.
 
-```
-$ git clone https://github.com/rohan8594/SMS-Spam-Detection.git
-$ cd SMS-Spam-Detection
-```
+## Author
 
-b) Install all dependencies.
+**Tanmay Rikhari**
 
-```
-$ pip install numpy
-$ pip install pandas
-$ pip install nltk
-$ pip install scipy
-$ pip install matplotlib
-$ pip install scikit-learn
-```
+## Original Project
 
-c) Run various scripts
+This project is based on and adapted from the original work by **rohan8594**.
 
-```
-$ python3 src/read_data.py
-$ python3 src/text_preprocessing.py
-$ python3 src/text_classification.py
-$ python3 src/parameter_tuning.py
-$ python3 src/learning_curve.py
-$ python3 src/check_bias.py
-$ python3 src/address_imbalance.py
-```
+Original repository:
+https://github.com/rohan8594/SMS-Spam-Detection
+
+This repository is maintained by Tanmay Rikhari for learning, experimentation, and further development.
+
+## Technologies Used
+
+- Python
+- NumPy
+- Pandas
+- Scikit-learn
+- NLTK
+- Matplotlib
+- SciPy
+- Jupyter Notebook
+
+## Project Goal
+
+The goal of this project is to classify SMS messages as spam or legitimate using machine learning and natural language processing techniques.
